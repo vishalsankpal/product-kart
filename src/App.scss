@@ -1,0 +1,12 @@
+.App{
+    display: flex;
+    // .left-sidebar{
+    //     flex: 0 0 25%;
+    //     &.mini{
+    //         flex: 0 0 3%;
+    //     }
+    // }
+    .main-content{
+        flex: 1;
+    }
+}
